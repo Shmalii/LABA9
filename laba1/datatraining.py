@@ -1,6 +1,6 @@
 
 from spyre import server
-
+import qwer
 
 import requests
 from bs4 import BeautifulSoup
